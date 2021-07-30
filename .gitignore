@@ -1,1 +1,4 @@
-.settings/ .classpath/ .project/ pom/
+.settings
+.classpath
+.project
+pom
