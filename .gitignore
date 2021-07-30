@@ -1,4 +1,4 @@
-.settings
-.classpath
-.project
-pom
+mvnproj2/.settings/
+mvnproj2/*.classpath
+mvnproj2/*.project
+mvnproj2/target/
